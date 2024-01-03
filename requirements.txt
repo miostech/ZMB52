@@ -1,2 +1,5 @@
 azure-functions
 requests
+openpyxl
+sqlalchemy
+pyodbc
